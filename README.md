@@ -1,2 +1,2 @@
-# dw_matrix
+# Projekt Matrix dataworkshop
 Dataworkshop matrix challange
